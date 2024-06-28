@@ -4,5 +4,9 @@
         "about": "About us",
         "contact": "Contact",
         "product": "Products"
+    },
+    "currency": {
+        "kh": "Riel",
+        "en": "USD"
     }
 }
